@@ -1,0 +1,4 @@
+*.S linguist-language=Assembly
+*.inc linguist-language=Assembly
+Makefile linguist-vendored
+linker.ld linguist-vendored
